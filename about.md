@@ -37,6 +37,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
+<!--
 <h2>Projects</h2>
 
 <ul>
@@ -44,3 +45,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+-->
