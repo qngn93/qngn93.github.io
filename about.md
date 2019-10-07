@@ -4,37 +4,33 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi there. I'm Quoc - pronounced like "Wook". Yeah.. like Wookie from Star Wars.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a backend Software Engineer at HP. On the daily, I solve interesting problems and collaborate with bright individuals. What more can I ask for?
+</p>
+
+<p>On my free time, I enjoy the great outdoors, playing ball with the boys and just living in the moment. If you'd like to connect or just say hi, don't be shy and reach out!
+</p>
+
+<p>Cheers
+</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Java - Spring</li>
+	<li>Python - Django - Pandas</li>
+	<li>Golang</li>
+	<li>C++/C</li>
+	<li>Javascript</li>
+	<li>HTML/CSS</li>
+	<li>MySQL - NoSQL</li>
+	<li>AWS Products - S3, SNS, SQS, DynamoDB, Elasticsearch, Cloudwatch</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Docker - Containers</li>
+	<li>API Development - REST</li>
+	<li>Visual Studio - Eclipse - Sublime</li>
+	<li>TDD - Continuous Integration</li>
 </ul>
 
 <!--
