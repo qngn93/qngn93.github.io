@@ -12,7 +12,7 @@ layout: page
 <p>On my free time, I enjoy the great outdoors, playing ball with the boys and just living in the moment. If you'd like to connect or just say hi, don't be shy and reach out!
 </p>
 
-<p>Cheers
+<p>Cheers~
 </p>
 
 <h2>Skills</h2>
