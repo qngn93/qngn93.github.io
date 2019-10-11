@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi there. I'm Quoc - pronounced like "Wook". Yeah.. like Wookie from Star Wars.</p>
 
-<p>I'm a backend Software Engineer at HP. On the daily, I get to solve interesting problems and collaborate with bright individuals. What more can I ask for?
+<p>I'm a backend Software Engineer at HP. On the daily, I get to solve interesting problems and collaborate with bright individuals.
 </p>
 
 <p>On my free time, I enjoy the great outdoors, playing ball with the boys and just living in the moment. If you'd like to connect or just say hi, don't be shy and reach out!
@@ -19,7 +19,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>Java - Spring</li>
-	<li>Python - Django - Pandas</li>
+	<li>Python - Django</li>
 	<li>Golang</li>
 	<li>C++/C</li>
 	<li>Javascript</li>
