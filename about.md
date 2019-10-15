@@ -29,7 +29,7 @@ layout: page
 	<li>Git</li>
 	<li>Docker - Containers</li>
 	<li>API Development - REST</li>
-	<li>Visual Studio - Eclipse - Sublime</li>
+	<li>Visual Studio - Intellij - GoLand - Sublime</li>
 	<li>TDD - Continuous Integration</li>
 </ul>
 
