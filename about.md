@@ -28,7 +28,7 @@ layout: page
 	<li>AWS Products - S3, SNS, SQS, DynamoDB, Elasticsearch, Cloudwatch</li>
 	<li>Git</li>
 	<li>Docker - Containers</li>
-	<li>API Development - REST</li>
+	<li>API Development - Backend</li>
 	<li>Visual Studio - Intellij - GoLand - Sublime</li>
 	<li>TDD - Continuous Integration</li>
 </ul>
