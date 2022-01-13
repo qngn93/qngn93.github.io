@@ -8,9 +8,10 @@ tag:
 - markdown
 - components
 - extra
-category: blog
+category: learnings
 author: jamesfoster
 description: Markdown summary with different options
+hidden: true
 ---
 
 ## Summary:
