@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi there. I'm Quoc - pronounced like "Wook". Yeah.. like Wookie from Star Wars.</p>
 
-<p>I'm a backend Software Engineer at HP. Being a part of the R&D team for our TechPulse product, I get a chance to create proof of concepts to innovate and contribute to new ideas to our platform. Everyday I get to solve interesting problems and collaborate with bright individuals - it's pretty sweet!
+<p>Over 3 years, I worked at HP on the TechPulse product team where I got to build and innovate ways to improve our data analytics and automation platform. Everyday I got the chance to solve interesting problems and collaborate with bright individuals - it was pretty sweet!
 </p>
 
 <p>In my free time, I enjoy the great outdoors, playing ball and just living in the moment. If you'd like to connect or just say hi, don't be shy and reach out!

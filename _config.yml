@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1TU-L0bKcPiL8eEodLF24R9CJQztlIwGv/view
+resume-url: https://drive.google.com/file/d/15gzzTuoG0y6uGW3rzk-k6UBwGbqmc6jZ/view
 
 url: http://qknguyen.com
 # your url: http://USERNAME.github.io
@@ -82,7 +82,7 @@ projects: false
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: false
-learnings: true
+learnings: false
 books: true
 
 # do you want to show the "read time" of the posts?
